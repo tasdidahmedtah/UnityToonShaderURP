@@ -14,4 +14,4 @@ It does not use any ramp texture and the whole effect is achieved by a `CustomLi
 **CustomLighting for URP**
 Link - https://github.com/Unity-Technologies/ShaderGraph-Custom-Lighting/blob/master/Assets/Includes/CustomLighting.hlsl
 
-![Settings Window](https://raw.github.com/ryanmaxwell/iArrived/master/Screenshots/Settings.png)
+![Demo](https://github.com/tasdidahmedtah/UnityToonShaderURP/blob/main/Screenshot%20(102).png?raw=true)
